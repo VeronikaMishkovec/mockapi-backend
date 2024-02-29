@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "mockapi",
+            "username": "postgres",
+            "name": "mockapi1"
+        }
+    ]
+}
